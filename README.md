@@ -7,7 +7,7 @@ Prerequisites:
 blog directory on your terminal :
 npm install react-navigation. 
 2. Have Expo application installed on you iOS or Android device.
-3. Make sure your device and pc are coonected to the internet.
+3. Make sure your device and pc are connected to the internet.
 
 To run the app:
 1. Clone this repository and navigate to 'blog' directory using terminal.
